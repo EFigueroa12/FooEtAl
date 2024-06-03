@@ -3,7 +3,7 @@ This gem calculates Foo Et Al parameterizations.
 
 ## Usage
 Add to your Gemfile:
-== gem 'foo_et_al', git: 'https://github.com/EFigueroa12/FooEtAl' ==
+```Ruby gem 'foo_et_al', git: 'https://github.com/EFigueroa12/FooEtAl ```
 
 Require in .rb file at top:
 require 'foo_et_al/volume/sphere'
