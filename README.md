@@ -3,7 +3,7 @@ This gem calculates Foo Et Al parameterizations.
 
 ## Usage
 Add to your Gemfile:
-gem 'foo-et-al', git: 'https://github.com/EFigueroa12/FooEtAl'
+gem 'foo_et_al', git: 'https://github.com/EFigueroa12/FooEtAl'
 
 ## Contributing
 
